@@ -1,0 +1,10 @@
+{
+  "name": "root",
+  "private": true,
+  "devDependencies": {
+    "lerna": "^3.16.4"
+  },
+  "dependencies": {
+    "vishesh_additionmodule": "~1.0.0"
+  }
+}
